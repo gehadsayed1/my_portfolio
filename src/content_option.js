@@ -12,7 +12,7 @@ const introdata = {
         third: "I Frontend Developer",
     },
     description: "I develop innovative user interfaces that combine attractive design with advanced functionality. My goal is to build interactive websites that meet users' needs and deliver exceptional performance across various devices.",
-    your_img_url: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvNykSNhnJYAvWZsFhMp9gwu1wVJpeEiz2Pg&s",
+    your_img_url: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREN1Rypf0yAst_8rSGPy6f6RigD7IyOZEyNQ&s",
 };
 
 const dataabout = {
@@ -152,7 +152,7 @@ const contactConfig = {
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
     YOUR_SERVICE_ID: "service_lexgsjl",
-    YOUR_TEMPLATE_ID: "template_gq9f0hn",
+YOUR_TEMPLATE_ID: "template_gq9f0hn",
     YOUR_USER_ID: "QR_yTc93M0JDJwxC-",
 };
 
