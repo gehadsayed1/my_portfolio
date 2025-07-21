@@ -40,8 +40,8 @@ export const Home = () => {
                 <p className="mb-1x">{introdata.description}</p>
                 <div className="intro_btn-action pb-5">
                   <a
-                    href="/My Cv (1).pdf"
-                    download="YourName_Resume.pdf"
+                    href="/jihad_cv.pdf"
+                    download="Jihad-Sayed.pdf"
                     className="text_2"
                   >
                     <div id="button_p" className="ac_btn btn">
