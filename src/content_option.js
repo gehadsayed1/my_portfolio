@@ -53,6 +53,19 @@ const skills = [{
     value: 70,
 },
 {
+    name:"Vue",
+    value : 90
+},
+{
+    name: "pinia",
+    value: 85
+},
+{
+    name: "Vuex",
+    value:70
+},
+
+{
     name: "Jquery",
     value: 60,
 },
@@ -184,8 +197,7 @@ const contactConfig = {
 
 const socialprofils = {
     github: "https://github.com/gehadsayed1 ",
-    facebook: "https://www.facebook.com/profile.php?id=100026066917383&mibextid=ZbWKwL",
-    linkedin: "https://www.linkedin.com/in/jihad-sayed-4a51172bb",
+    linkedin: "https://www.linkedin.com/",
     WhatsApp: "https://wa.me/201033671306",
 };
 export {
