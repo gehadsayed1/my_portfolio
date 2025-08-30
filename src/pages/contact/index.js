@@ -6,6 +6,7 @@ import { meta } from "../../content_option";
 import { Container, Row, Col, Alert } from "react-bootstrap";
 import { contactConfig } from "../../content_option";
 
+
 export const ContactUs = () => {
   const [formData, setFormdata] = useState({
     email: "",
@@ -78,7 +79,7 @@ export const ContactUs = () => {
             <hr className="t_border my-4 ml-0 text-left" />
           </Col>
         </Row>
-        <Row className="sec_sp">
+        <Row className="sec_sp ">
           <Col lg="12">
             <Alert
               //show={formData.show}
@@ -119,7 +120,7 @@ export const ContactUs = () => {
                     className="form-control"
                     id="name"
                     name="name"
-                    placeholder="Name"
+                    placeholder="Enter Your Name"
                     value={formData.name || ""}
                     type="text"
                     required
@@ -131,7 +132,7 @@ export const ContactUs = () => {
                     className="form-control rounded-0"
                     id="email"
                     name="email"
-                    placeholder="Email"
+                    placeholder="Enter Your Email"
                     type="email"
                     value={formData.email || ""}
                     required
@@ -143,7 +144,7 @@ export const ContactUs = () => {
                 className="form-control rounded-0"
                 id="message"
                 name="message"
-                placeholder="Message"
+                placeholder="Enter Your Message"
                 rows="5"
                 value={formData.message}
                 onChange={handleChange}
@@ -151,7 +152,7 @@ export const ContactUs = () => {
               ></textarea>
               <br />
               <Row>
-                <Col lg="12" className="form-group">
+                <Col lg="12" className="form-group ">
                   <button className="btn ac_btn" type="submit">
                     {formData.loading ? "Sending..." : "Send"}
                   </button>

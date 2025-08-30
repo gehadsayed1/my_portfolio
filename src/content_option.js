@@ -9,14 +9,14 @@ const introdata = {
     animated: {
         first: "I love coding",
         second: "I code cool websites",
-        third: "I Frontend Developer",
+        third: "I’m a Frontend Developer",
     },
     description: "I develop innovative user interfaces that combine attractive design with advanced functionality. My goal is to build interactive websites that meet users' needs and deliver exceptional performance across various devices.",
     your_img_url: "https://w0.peakpx.com/wallpaper/298/360/HD-wallpaper-neon-anime-electric-blue-magenta.jpg",
 };
 
 const dataabout = {
-    title: "abit about my self",
+    title: "A little about myself",
     aboutme: "I am Jihad, a responsive front-end developer. I graduated from a college of commerce. I started in the field of front-end development two years ago for the love of the field and studied it through an online course in the city of Zagazig. I completed an online course from the YouTube platforms and enjoyed the skills and designed many websites with UI & UX in mind. I also study a UI course. & UX and constantly develop my skills.",
 };
 
@@ -190,9 +190,9 @@ const contactConfig = {
     description: "Contact me at any time. I will always be at your service to provide what you need, whatever it is, in the fastest time and with high quality. Thank you for contacting me.. ",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
-    YOUR_SERVICE_ID: "service_lexgsjl",
+    YOUR_SERVICE_ID: "service_j1wyhns",
     YOUR_TEMPLATE_ID: "template_gq9f0hn",
-    YOUR_USER_ID: "QR_yTc93M0JDJwxC-",
+    YOUR_USER_ID: "F9H0ctqhJIs6eRnuE",
 };
 
 const socialprofils = {
